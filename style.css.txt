@@ -1,0 +1,6 @@
+body{
+	background-color: rgb(55, 101, 86);
+	color: white;
+	font-famile: Arial, Helvetica, sans-derif;
+	test-align": center;
+}
